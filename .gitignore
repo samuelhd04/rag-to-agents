@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ChromaDB vector store
+chroma_db/
+
+# Resumes
+Resume.pdf
